@@ -13,4 +13,4 @@ msgText:setFillColor( 0.2, 0.6, 0.8 )local msgText = display.newText( "Hello, wo
 msgText:setFillColor( 0.2, 0.6, 0.8 )local msgText = display.newText( "Hello, world!", world.x, world.y+160, native.systemFont, 32 )
 msgText:setFillColor( 0.2, 0.6, 0.8 )local msgText = display.newText( "Hello, world!", world.x, world.y+160, native.systemFont, 32 )
 msgText:setFillColor( 0.2, 0.6, 0.8 )local msgText = display.newText( "Hello, world!", world.x, world.y+160, native.systemFont, 32 )
-msgText:setFillColor( 0.2, 0.6, 0.8 )
+msgText:setFillColor( 0.2, 0.6, 0.8 ).223515615684156
